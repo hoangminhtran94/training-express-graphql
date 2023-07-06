@@ -2,7 +2,7 @@ export const resolvers = {
   hello() {
     return {
       text: "Hello",
-      views: "Worlds",
+      views: 1234,
     };
   },
 };
